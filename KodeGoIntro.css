@@ -1,0 +1,76 @@
+.background{
+  position:fixed;
+  width: 7666px;
+  height: 3900px;
+}
+.female{
+    position:fixed;
+    text-align: center;
+    padding-left: 2050px;
+    padding-top: 165px;
+    width: 3300px;
+    height: 2600px;
+}
+.headline1{
+    position:fixed;
+    text-align: center;
+    padding-left: 2400px;
+    padding-top: 1200px;
+    width: 2600px;
+    height: 2050px;
+
+
+
+}
+.headline2{
+    position:fixed;
+    text-align: center;
+    padding-left: 2000px;
+    width: 4000px;
+    height: 2500px;
+
+
+
+}
+.learnmore{
+    position:fixed;
+    text-align: center;
+    padding-left: 2000px;
+    width: 4000px;
+    height: 2500px;
+
+
+
+}
+.logo{
+    position:fixed;
+    text-align: center;
+    padding-left: 2000px;
+    width: 4000px;
+    height: 2500px;
+
+
+
+}
+.replay{
+    position:fixed;
+    text-align: center;
+    padding-left: 2000px;
+    width: 4000px;
+    height: 2500px;
+
+
+
+
+}
+.subheadline{
+    position:fixed;
+    text-align: center;
+    padding-left: 2000px;
+    width: 4000px;
+    height: 2500px;
+
+
+
+
+}
